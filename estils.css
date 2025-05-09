@@ -1,0 +1,46 @@
+h1{
+	background-color:white;
+	color:#85d07a
+}
+h2{
+	background-color:yellow;
+	color:#af3c5e
+}
+h3{
+	background-color:yellow;
+	color:purple
+}
+h4{
+	background-color:yellow;
+	color:green
+}
+h5{
+	background-color:yellow;
+	color:orange
+}
+h6{
+	background-color:yellow;
+	color:#85d07a 
+}
+body{
+	background-color:cyan
+}
+footer{
+	background-color:red
+}
+p{
+	font-size: 30px; 
+	font-family: 'New courier', mono
+}
+
+img{
+	background-color:pink;
+	width: 60%;
+	max-width: 500px;
+	min-width: 300px;
+	padding: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+}
